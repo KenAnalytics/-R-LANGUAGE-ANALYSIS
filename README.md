@@ -119,6 +119,4 @@ The model predicts benign perfectly and predicts malignant almost perfectly, wit
 
 
 
-             prop.chisq=FALSE)
-
-#98% Accuracy 
+            
